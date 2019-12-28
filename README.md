@@ -8,11 +8,14 @@
 - Inductive Representation Learning on Large Graphs(GraphSage)
 - Semi-Supervised Classification with Graph Convolutional Networks(GCN)
 - Simplifying Graph Convolutional Networks
+- Self-Attention Graph Pooling
+- GMNN: Graph Markov Neural Networks
+- (AAAI2018) Deeper Insights into Graph Convolutional Networks
 - (KDD2019) Heterogeneous Graph Neural Network
 - (WWW2019) Heterogeneous Graph Attention Network
-- Self-Attention Graph Pooling
-- (AAAI2018) Deeper Insights into Graph Convolutional Networks
-- GMNN: Graph Markov Neural Networks
+
+
+
 
 ### Recommender System
 - Graph Contextualized Self-Attention Network for Session-based Recommendation
