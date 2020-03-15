@@ -32,6 +32,7 @@
 - (KDD2018)Leveraging Meta-path based Context for Top-N Recommendation with A Neural Co-Attention Model
 - (CIKM2018)Local and Global Information Fusion for Top-N Recommendation in Heterogeneous Information Network
 - (MM2019)Routing Micro-videos via A Temporal Graph-guided Recommendation System
+- (MM2019)MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video
 - (CIKM2019)Learning and reasoning on graph for recommendation
 - (CIKM2019)Fi-GNN: Modeling Feature Interactions via Graph Neural Networks for CTR Prediction
 - (CIKM2019)Session-Based Social Recommendation via Dynamic Graph Attention Networks
