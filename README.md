@@ -25,7 +25,6 @@
 - Multi-Graph Convolution Collaborative Filtering
 - Neural Graph Collaborative Filtering
 - Session-based Recommendation with Graph Neural Networks
-- Session-based Social Recommendation via Dynamic Graph Attention Networks
 - STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems
 - Relation-Aware Graph Convolutional Networks for Agent-Initiated Social E-Commerce Recommendation
 - Rich-Item Recommendations for Rich-Users via GCNN: Exploiting Dynamic and Static Side Information
