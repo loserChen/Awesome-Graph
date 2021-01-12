@@ -34,6 +34,7 @@
 - (WWW2018)Dual Graph Convolutional Networks for Graph-Based Semi-Supervised Classification
 - (ACL2020)GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media
 - (ACL2020)Relational Graph Attention Network for Aspect-based Sentiment Analysis
+- (AAAI2021)Graph-Based Tri-Attention Network for Answer Ranking in CQA
 
 
 
